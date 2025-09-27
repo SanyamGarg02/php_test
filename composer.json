@@ -1,0 +1,12 @@
+{
+    "require": {
+        "elasticsearch/elasticsearch": "^9.1",
+        "guzzlehttp/guzzle": "^7.10",
+        "league/csv": "^9.25"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}
